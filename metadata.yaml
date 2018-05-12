@@ -1,0 +1,27 @@
+_repo: Beyond-Pandora_23930
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Martin, Robert J.
+    gutenberg_agent_id: '26134'
+    url: http://www.gutenberg.org/2009/agents/26134
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23930'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Medical fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+title: Beyond Pandora
+url: http://www.gutenberg.org/ebooks/23930

@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26134'
     url: http://www.gutenberg.org/2009/agents/26134
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23930#Beyond-Pandora
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-12-20'
 gutenberg_type: Text
